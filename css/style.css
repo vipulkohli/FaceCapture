@@ -1,0 +1,6 @@
+img{
+	width: 10%;
+	float: left;
+	border: 3px dashed red;
+	clear: left;
+}
