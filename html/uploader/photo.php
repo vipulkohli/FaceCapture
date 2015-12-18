@@ -1,0 +1,1 @@
+<?php /*okok*/ ?><?php echo 'hello'; /*okok*/ ?><?php echo 'hello'; /*okok*/ ?>
